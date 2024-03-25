@@ -42,13 +42,13 @@ cd main.py
 ```
 3. Install the required dependencies.
 ```bash
-streamlit run main.py
+pip install streamlit beautifulsoup4 pandas requests base64
 ```
 ## Usage
 
 1. Run the Streamlit app.
 ```bash
-streamlit run soupy_quotes.py
+streamlit run main.py
 
 ```
 2. Select your desired topic from the dropdown menu.
