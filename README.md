@@ -42,7 +42,7 @@ cd main.py
 ```
 3. Install the required dependencies.
 ```bash
-streamlit run soupy_quotes.py
+streamlit run main.py
 ```
 ## Usage
 
