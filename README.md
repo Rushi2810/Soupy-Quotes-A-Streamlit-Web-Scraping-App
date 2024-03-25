@@ -77,6 +77,6 @@ streamlit run soupy_quotes.py
 
 ## Note
 
-Contributions are always welcome!
+Contributions and feedbacks are always welcome!
 
 
